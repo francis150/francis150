@@ -19,6 +19,8 @@
 ## Few Facts About Me
 
 - 👨‍💻 I'm a Full-stack Dev with 5+ years exp.
+- 💕 Very passionate for Coding.
+- 📖 Don't want to stop learning new things.
 - 💼 I currently work as the Head Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).
 - 🦸‍♂️ I'm a dad, a husband, a son, and a big brother.
 
@@ -61,3 +63,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&&theme=gruvbox&hide_border=true&count_private=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=francis150&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis150&layout=compact&theme=gruvbox&hide_border=true&count_private=true)
+
+<p>&nbsp;</p>
+
+## Reach Out
+
+[francisdelavictoria150@gmail.com](mailto:francisdelavictoria150@gmail.com) | [/iscothevictory](https://www.facebook.com/iscothevictory/) | +639669257362(PH)
