@@ -55,10 +55,8 @@
 
 <p>&nbsp;</p>
 
+## Github Stats <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-## Github Stats
-
-<!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=francis150&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&&theme=gruvbox&hide_border=true&count_private=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=francis150&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis150&layout=compact&theme=gruvbox&hide_border=true&count_private=true)
