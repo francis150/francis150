@@ -19,7 +19,8 @@
 ## Few Facts About Me
 
 - 👨‍💻 I'm a Full-stack Dev with 5+ years exp.
-- 💕 Very passionate for Coding.
+- 🚀 I'm also an SEO.
+- 💕 Very passionate about Coding.
 - 📖 Don't want to stop learning new things.
 - 💼 I currently work as the Head Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).
 - 🦸‍♂️ I'm a dad, a husband, a son, and a big brother.
@@ -58,6 +59,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 <p>&nbsp;</p>
