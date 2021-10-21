@@ -19,7 +19,7 @@
 ## Few Facts About Me
 
 - 👨‍💻 I'm a Full-stack Dev with 5+ years exp.
-- 🚀 I'm also an SEO.
+- 🚀 I also do SEO.
 - 💕 Very passionate about Coding.
 - 📖 Don't want to stop learning new things.
 - 💼 I currently work as the Head Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).
