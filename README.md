@@ -16,15 +16,6 @@
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22name%22%3A+%22Francis+Dela+Victoria%22%7D;%7B%22description%22%3A+%22Full-stack+Developer%22%7D;%7B%22email%22%3A+%22francisdelavictoria150%40gmail.com%22%7D)](https://git.io/typing-svg)
 
-## Few Facts About Me
-
-- 👨‍💻 I'm a Full-stack Dev with 5+ years exp.
-- 🚀 I also do SEO.
-- 💕 Very passionate about Coding.
-- 📖 Don't want to stop learning new things.
-- 💼 I currently work as the Head Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).
-- 🦸‍♂️ I'm a dad, a husband, a son, and a big brother.
-
 <p>&nbsp;</p>
 
 ## Techs I Work With
